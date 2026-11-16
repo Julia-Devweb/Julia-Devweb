@@ -10,8 +10,6 @@
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Alliée_du_Web-111827?style=for-the-badge&logo=nuxt&logoColor=111827&labelColor=FFF0F6)](https://portfolio.alliee-du-web.fr/)
-[![CV](https://img.shields.io/badge/Mon_CV-PDF-111827?style=for-the-badge&logo=readdotcv&logoColor=111827&labelColor=6F164B)](https://imgix.cosmicjs.com/2397bdf0-e126-11f1-acef-e1ff2657ff1e-Julia_laverquant_CV.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julia_Laverquant-111827?style=for-the-badge&logo=linkedin&logoColor=111827&labelColor=0B5AA4)](https://www.linkedin.com/in/julia-laverquant/)
 
 </div>
 
