@@ -47,9 +47,3 @@ Je conçois et livre des applications web modernes et performantes pour les TPE/
 
 > 🇫🇷 Quand je ferme mon éditeur de code, j'aime me ressourcer dans la nature, admirer de beaux paysages et surtout savourer de bons petits plats chauds. J'ai récemment commencé le street jazz et j'explore ma créativité à travers mon propre **jeu de cartes d'oracle**, que j'ai décliné en **[tirage interactif en ligne (Gemmoracle)](https://gemmoracle-game-online.vercel.app/)**.
 
-
-<div align="center">
-
-[![Gemmoracle](https://img.shields.io/badge/✨_Tester_mon_Oracle_en_ligne-Gemmoracle-111827?style=for-the-badge&logo=vercel&logoColor=111827&labelColor=FFF0F6)](https://gemmoracle-game-online.vercel.app/)
-
-</div>
