@@ -31,7 +31,7 @@ Je conçois et livre des applications web modernes et performantes pour les TPE/
 
 ---
 
-### 🛠️ Stack & Outils / Tech Stack
+### 🛠️ Stack & Outils
 
 <div align="center">
 
@@ -43,7 +43,7 @@ Je conçois et livre des applications web modernes et performantes pour les TPE/
 
 ---
 
-### ✨ Au-delà du code / Beyond the Code
+### ✨ Au-delà du code
 
 > 🇫🇷 Quand je ferme mon éditeur de code, j'aime me ressourcer dans la nature, admirer de beaux paysages et surtout savourer de bons petits plats chauds. J'ai récemment commencé le street jazz et j'explore ma créativité à travers mon propre **jeu de cartes d'oracle**, que j'ai décliné en **[tirage interactif en ligne (Gemmoracle)](https://gemmoracle-game-online.vercel.app/)**.
 
